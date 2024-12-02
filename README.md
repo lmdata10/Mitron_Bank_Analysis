@@ -62,7 +62,7 @@ Cashback and Rewards for Key Categories:
 Collaborations for Bills and Grocery Spending:
 - Collaborate with supermarkets, online grocery platforms, and utility providers to offer cashback deals and reward points for Bills and Grocery purchases, appealing to high-spending segments.
 
-For a detailed breakdown of the analysis, findings, and recommendations for Mitron Bank’s credit card offerings, please explore the [**final_report.pptx**](Mitron_Bank_Report.pptx) and Excel [File](Mitron_Bank_Analysis.xlsx).
+For a detailed breakdown of the analysis, findings, and recommendations for Mitron Bank’s credit card offerings, please explore the [**final_report.pptx**](Mitron_Bank_Report.pdf) and Excel [File](Mitron_Bank_Analysis.xlsx).
 
 ---
 
